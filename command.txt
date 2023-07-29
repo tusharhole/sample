@@ -4,3 +4,6 @@ git add
 git commit -m ""
 git clone
 git remote -v
+git pull
+git fetch
+git push 
