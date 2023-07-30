@@ -7,3 +7,10 @@ git remote -v
 git pull
 git fetch
 git push 
+git rebase 
+git cherry-pick
+git reset
+git merge
+git checkout -b "New branch"
+git checkout "branch name"
+
