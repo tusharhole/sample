@@ -7,3 +7,5 @@ git remote -v
 git pull
 git fetch
 git push 
+git merge
+git rebase
